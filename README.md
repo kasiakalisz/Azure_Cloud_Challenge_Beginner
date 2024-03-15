@@ -10,7 +10,7 @@ You can completed this challenge using FREE resurces.
 
 For deatils of theory and practicl skills covered during challenge click here. 
 
-All references are up to date as of May 2024. 
+All references/resources used are up to date as of May 2024. 
 
 
 
