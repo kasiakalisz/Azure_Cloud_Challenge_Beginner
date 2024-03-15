@@ -2,7 +2,9 @@
 
 ## Welcome to Wiki domuenting  CozyCrewCloud challenge. 
 
-- This challenge is at beginner level and its siutabale for people wanting to learn about cloud. 
+- This challenge is at beginner level and it is designed for people wanting to learn about cloud.
+
+- You do not need any prior IT experiece/knowldege to complete this challenge. 
 
 - The cloud provider used for this challenge is Azure.  
 
