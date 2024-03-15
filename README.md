@@ -6,7 +6,7 @@
 
 - You do not need any prior IT experiece/knowldege to complete this challenge. 
 
-- The cloud provider used for this challenge is Azure.  
+- The cloud provider used for this challenge is [Azure](https://azure.microsoft.com/en-gb/).  
 
 - You can completed this challenge using FREE resurces. 
 
