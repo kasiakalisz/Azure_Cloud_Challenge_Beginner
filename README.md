@@ -12,6 +12,7 @@ For deatils of theory and practicl skills covered during challenge click here.
 
 All references/resources used are up to date as of May 2024. 
 
+add a pin for bulletpints 
 
 
 
