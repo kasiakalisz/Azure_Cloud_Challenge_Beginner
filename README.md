@@ -1,6 +1,6 @@
 # Azure Cozy Cloud 30 Days Challenge Beginner Level. 
 
-## Welcome to Wiki domuenting  CozyCrewCloud challenge. 
+## Welcome to Wiki dokumenting CozyCrewCloud challenge. 
 
 - This challenge is at beginner level and it is designed for people wanting to learn about cloud.
 
